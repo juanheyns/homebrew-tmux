@@ -1,8 +1,8 @@
 class Atmux < Formula
   desc "Multi-agent Claude Code orchestration in tmux"
   homepage "https://github.com/juanheyns/agent-tmux"
-  url "https://github.com/juanheyns/agent-tmux/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 ""  # Update after creating the release tarball
+  url "https://github.com/juanheyns/agent-tmux/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "6cc7a895cd456458ca8b01907d67eeec8047f4eefada3c8cdfcc65568860bd7f"  # Update after creating the release tarball
   license "MIT"
 
   depends_on "tmux"
